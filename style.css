@@ -6,3 +6,43 @@ a {
 a:hover {
     font-size: 130%;
 }
+.process{
+    width: 100px;
+    height: 30px;
+    font-size: 12px;
+}
+
+.operation{
+    width: 100px;
+    height: 30px;
+}
+
+#numberpad button{
+    width: 50px;
+    height: 50px;
+}
+
+.math {
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+}
+.operationlog{
+    text-indent: 200px;
+}
+
+#equationcanvas{
+    width: 50%;
+    float: right;
+}
+
+.equation{
+    text-align: left;
+    padding-left: 15px;
+}
+
+#numarea{
+    width:204px;
+    height: 35px;
+    background-color: #eeeeee;
+
+}
